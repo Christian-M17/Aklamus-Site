@@ -1,0 +1,134 @@
+.butao {
+font-family: 'Roboto', sans-serif; 
+font-size: 20px;
+background-color: #BA86C7;
+border:0px;
+width:170;height:40
+}
+
+.butao:hover {
+		background-color: #36E968;
+}
+
+#logo  {float : left ;}
+
+body {background : #262626;}
+
+.paginainicial {font-family: 'Roboto', sans-serif; 
+font-size: 20px;
+background-color: #36E968;
+border:0px;
+width:250;height:70
+}
+
+.paginainicial:hover {
+		background-color: #BA86C7;
+}
+
+#site {
+position: relative;
+top: 15px;
+text-align: center;
+width: 100%;
+height: 100%;
+background:url("https://i.ibb.co/Dk4tHn4/fundo1novo.png");}
+
+#texto {
+font-family: 'Roboto', sans-serif; 
+font-size: 72px;
+color: white;}
+
+#principalbutao {
+font-family: 'Roboto', sans-serif; 
+font-size: 72px;
+color: white;
+background-color: #BA86C7;
+border:0px;
+width:500px ;height:160px;
+}
+
+#principalbutao:hover {
+		background-color: #36E968;
+}
+
+
+#pagina2 {
+postion: relative;
+top: 15px;
+text-align: center;
+width: 100%;
+height: 100%;
+background:url("https://i.ibb.co/3rgStJg/fundo2.png");}
+
+#gamejolt {
+position: absolute;
+top: 800px;
+right: 750px;
+
+display: inline-block;
+font-family: 'Roboto', sans-serif; 
+font-size: 20px;
+background-color: #36E968;
+border:0px;
+width:180px;height:70px;
+}
+
+#saibamais {
+
+position: absolute;
+top: 800px;
+left: 750px;
+
+top: 12x;
+font-family: 'Roboto', sans-serif; 
+font-size: 20px;
+background-color: #BA86C7;
+border:0px;
+width:180px;height:70px;
+}
+
+
+#saibamais:hover { background-color: #36E968;}
+#gamejolt:hover { background-color: #BA86C7;}
+
+#quemsomos {
+position: relative;
+top: 15px;
+text-align: center;
+width: 100%;
+height: 100%;
+background:url("https://i.ibb.co/QvkdJrs/fundo3.png");}
+
+#parte1{
+float: left;
+position: relative;
+left: 20px;
+text-align: left;
+width: 50%;
+height: 100%;}
+
+.titulo1{
+position: relative;
+top: 30px;
+font-family: 'Roboto', sans-serif; 
+font-size: 48px;
+color: white;}
+
+.texto1{
+font-family: 'Roboto', sans-serif; 
+font-size: 28px;
+color: white;}
+
+#parte2{
+float: right;
+position: relative;
+left: 20px;
+text-align: left;
+width: 45%;
+height: 100%;}
+
+#texto2
+{
+font-family: 'Roboto', sans-serif; 
+font-size: 55px;
+color: white;}
